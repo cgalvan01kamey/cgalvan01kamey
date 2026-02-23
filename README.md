@@ -12,7 +12,6 @@
 ### iOS Developer · Backend Engineer · Competitive Programmer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-galvan-kamey/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cgalvan01kamey@gmail.com)
 [![Location](https://img.shields.io/badge/Guadalajara%2C%20Mexico-000000?style=for-the-badge&logo=apple-maps&logoColor=white)](#)
 
 </div>
